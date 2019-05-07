@@ -1,0 +1,6 @@
+*
+-tab 4
+-istep 4
+-wordwrap
+-linums
+:include /etc/joe/joerc
